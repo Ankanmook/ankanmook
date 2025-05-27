@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I work in a Fintech as Principal Engineer in London, UK.<br>I am a **back-end** engineering masquerading as Devlopment Ops advocate. <br>I am building developer experience tooling in my current organisation which will allow developers to deploy their code to production fast & improve their productivity.<br><br>My area of specializations are <br>Cloud Technology: Azure<br>Languages: C#, Go, Python, Ts<br>Container Orchestration Platform: K8<br><br>A decade ago I studied & majored Masters Degree in Computer Science in Machine Learning & Pattern Recognition. Well I became a software engineer along the way. I am back brushing up on ML Engineering, LLMs in these exciting times again.<br>
+I work in a Fintech as a Principal Engineer in London, UK.<br>I am a **back-end** engineering masquerading as **DevOps** advocate. <br>I have built the developer experience tooling in my current organisation which will allow developers to deploy their code to production fast & improve their productivity.<br><br>My area of specializations are: <br>Cloud Technology: Azure<br>Languages: C#, Go, Python, Ts<br>Container Orchestration Platform: K8<br>CI/CD: GitHub Actions<br>A decade ago I studied & majored Masters Degree in Computer Science in Machine Learning & Pattern Recognition. I became a software engineer along the way. I am back brushing up on ML Engineering, LLMs in these exciting times again.<br>
 
 
 ## 🌐 Socials:
